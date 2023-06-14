@@ -1,4 +1,4 @@
-<img src="![banner](https://github.com/isarthaksharma1092/isarthaksharma1092/assets/75194408/693a1ee6-9f1a-4c42-8fc2-e91e519221d4)"> <br>
+<img src="https://github.com/isarthaksharma1092/isarthaksharma1092/assets/75194408/693a1ee6-9f1a-4c42-8fc2-e91e519221d4"> <br>
 
 <h1 align="center">Hi 👋, I'm Sarthak Sharma</h1>
 <h3 align="center">A passionate geek who can put their professional skills to good use for the company. I am a self-taught problem-solver with a great interest in Data Structures and a willingness to learn new technologies.</h3>
