@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Sharma</h1>
 <h3 align="center">A passionate geek who can put their professional skills to good use for the company. I am a self-taught problem-solver with a great interest in Data Structures and a willingness to learn new technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isarthaksharma1092&label=Profile%20views&color=0e75b6&style=flat" alt="isarthaksharma1092" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isarthaksharma1092" alt="isarthaksharma1092" /></a> </p>
-
 - 🌱 I’m currently learning **reactnative**
 
 - 💬 Ask me about **Competitive Coding, C++ & Android Development**
