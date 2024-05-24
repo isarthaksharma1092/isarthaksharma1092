@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/isarthaksharma1092/Resume/blob/main/Sarthak's%20Resume.pdf">
+  <a href="https://github.com/isarthaksharma1092/Resume/blob/main/Sarthak_Sharma_Resume.pdf">
     <img src="https://img.shields.io/badge/Download Resume-📝-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume" height="30">
   </a>
   &nbsp;&nbsp;&nbsp;
