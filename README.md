@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/isarthaksharma1092/isarthaksharma1092/assets/75194408/6d060878-fcbc-402d-9106-5a94bfde56d0" alt="Banner" width="800px">
-</h1>
-
 <h1 align="center">Hi 👋, I'm Sarthak Sharma</h1>
 <h3 align="center">A passionate Software Developer specializing in Android Development, Data Structures & Algorithms, and Backend Engineering.</h3>
 
